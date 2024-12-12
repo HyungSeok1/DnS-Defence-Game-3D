@@ -832,7 +832,7 @@ MonoBehaviour:
   Particle: {fileID: 7358997399562693616, guid: 27ba3678249a3a04b84395702c331d29, type: 3}
   speed: 0.7
   direction: {x: 0, y: 0, z: 0}
-  health: 2.5
+  health: 1
   player: {fileID: 3294564219125457607, guid: 8a8f57edf3523624eb9f886833e8e97a, type: 3}
 --- !u!1 &8406845055918955520
 GameObject:
